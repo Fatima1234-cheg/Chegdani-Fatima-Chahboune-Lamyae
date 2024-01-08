@@ -1,0 +1,45 @@
+*{
+    
+    text-align: center;
+ 
+}
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  background-color: antiquewhite;
+    width: 100%;
+}
+form{
+    border:2px solid black;
+border-radius: 100px;
+    width: 630px;padding:10px;
+    text-align: left;
+    line-height: 32px;
+    height:490px;
+    color: rgb(50, 29, 7);
+   
+
+}
+label{padding:20px;
+    font-size: 16px;
+    text-align: left;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Qte,#Cp,#Ville,#Al,#Payer,#Nom,#Prenom,#Email,#Dl,#Article{
+    width: 400px;
+    height:25px;
+    background-color: bisque;
+  
+  
+}
+
+#btn{text-align: center;
+width: 150px;
+height:30px;
+margin-top: 10px;
+background-color: bisque;
+
+}
+input {
+    border-radius: 90px;
+}

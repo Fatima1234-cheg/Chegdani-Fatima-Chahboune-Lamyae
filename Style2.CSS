@@ -1,0 +1,29 @@
+.page {
+    text-align: justify;
+    font-size: 25px;;
+color:black;
+    height:400px;
+   letter-spacing: 2px;
+    width:390px;
+    padding-left: 870px;
+    margin-top: 100px;
+    padding-top: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    border-radius: 50%;
+    font-size: 20px;
+    font-weight: 25px;
+}
+body{
+    background-image: url("5f7cdfd487e1b3b1323b5abdfc8fe607.jpg");
+    background-repeat: no-repeat;
+    background-size: 1290px 900px;
+}
+
+span{
+    font-size: 32px;
+    color: rgb(193, 182, 182);
+    font-weight: 20px;
+}
+B{
+    font-size: 28px;
+}

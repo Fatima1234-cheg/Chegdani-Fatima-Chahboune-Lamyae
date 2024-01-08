@@ -1,0 +1,22 @@
+
+
+
+body,table{
+    text-align: center;
+    
+    
+}
+
+table{
+    display: flex;
+    justify-content: center;
+    border: none;
+  
+}
+.bien {
+    text-align:center;
+
+}
+ a{
+    padding:20px;
+ }

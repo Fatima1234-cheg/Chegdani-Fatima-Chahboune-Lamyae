@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+}
+div.gallery{
+  
+  float: left;
+    width:360px;
+margin:4px;
+padding:15px;
+
+  
+}
+div.gallery img{
+    width:100%;
+    height:430px;
+   padding:10px;
+   border: 2px SOLID black;
+  border-radius: 20px;
+  
+    
+
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 3px;
+}
+.text{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
